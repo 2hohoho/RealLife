@@ -1,0 +1,22 @@
+name: RealLife
+version: 1.0
+author: 2hohoho
+main: classes.main
+
+commands:
+     Coins:
+          description: Coins Command
+     Jobs:
+          description: Jobs Command
+     Stats:
+          description: Stats Command
+     build:
+          description: Build Command
+     team:
+          description: Build Command
+     claim:
+          description: Claim Command
+     aclaim:
+          description: Claim Command
+     wartung:
+          description: Claim Command
